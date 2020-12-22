@@ -1,7 +1,11 @@
 # TJAPlayer3
+
+
 DTXManiaをいじってtja再生プログラムにしちゃった[TJAPlayer2fPC](https://github.com/kairera0467/TJAP2fPC)をForkして本家風に改造したアレ。
 
 この改造者[@aioilight](https://twitter.com/aioilight)はプログラミングが大変苦手なので、スパゲッティコードと化していると思います...すみません
+
+TJAPlayer3 を FORK して改造します
 
 このプログラムを使用した不具合・問題については責任を負いかねます。
 
